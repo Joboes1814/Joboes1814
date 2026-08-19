@@ -1,4 +1,4 @@
-# GitHub Profile README — Josaphat Boesinga
+
 
 # Hi, I'm Josaphat Boesinga 👋
 
